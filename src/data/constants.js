@@ -303,7 +303,7 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/nitesh925/MyPortfolio",
-      webapp: "http://roam-around-travel-app-eight.vercel.app",
+      webapp: "https://roamaroundtravelapp.vercel.app",
     },
     {
       id: 0,
