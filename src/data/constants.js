@@ -9,7 +9,7 @@ export const Bio = {
       "Hi 👋! I’m Nitesh, an ambitious case student with a strong passion for continuous learning and professional development. I bring a solid foundation in Software Engineering with professional experience. I am captivated by the realm of Cloud Computing and Solution Architect practices, seeking to revolutionize how we deploy applications in the modern era. My unwavering curiosity and drive, push me to explore fresh avenues to redefine technological frontiers.",
     github: "https://github.com/nitesh925",
     resume:
-      "https://drive.google.com/file/d/1byaCa7RKuFHJNiRF8U-CPGcj-aDs-Q-4/view?usp=share_link",
+      "https://drive.google.com/file/d/1J3b_9itBuE2FUI_7FlrjZloaF-U2xDPI/view?usp=share_link",
     linkedin: "https://www.linkedin.com/in/d-nitesh-kumar-0401b0249/",
     insta: "https://www.instagram.com/nitesh_devarsetty/",
     twitter: "https://twitter.com/nitesh_devarsetty/",
